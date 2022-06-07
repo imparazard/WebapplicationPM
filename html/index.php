@@ -1,5 +1,5 @@
 <?php
-    $login = mysqli_connect("localhost","root","toor1234");
+    $login = mysqli_connect("localhost","XX","XXX");
     mysqli_set_charset($login,'utf8');
     $sqlst = "use productdb";
     #$sqaqi = "use productdb";
